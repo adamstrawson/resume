@@ -3,7 +3,7 @@ title: "Adam Strawson, Developer"
 layout: default
 ---
 
-## Adam Strawson
+# Adam Strawson
 ### Web Developer
 
 * Mobile: +44 (0)7867 977184

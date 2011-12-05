@@ -1,19 +1,37 @@
 body {
-  font-family: "Helvetica Neue", Helvetica, "Arial", sans-serif;
-  font-size: 13px;
-  line-height: 1.5;
+  	background-color: #fff;
+	font-family: "Helvetica Neue", Helvetica, "Arial", sans-serif;
+  	font-size: 13px;
+  	line-height: 1.5;
 }
 
-div.container {
-  margin: 20px auto;
-  text-align: justify;
-  width: 640px;
+a {
+	color: #8F8F8F;
+	text-decoration: none;
 }
 
-h1, h2, h3 {
-  margin: 0;
+a:hover {
+	text-decoration: underline;
 }
 
-#experience {
-  page-break-before: always;
+#container {
+	background-color: #ECECEC;
+	border-left: 8px solid #FF1168;
+  	margin: 20px auto;
+	padding: 20px;
+  	width: 640px;
+}
+
+#adam_strawson, #web_developer {
+	margin: 0;
+}
+
+h2 {
+	border-bottom: 1px solid #8F8F8F;
+	width: 260px;
+	color: #25020F;
+}
+
+h3 {
+	color: #9E1E4C;
 }
