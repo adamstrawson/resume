@@ -15,7 +15,7 @@ layout: default
 ### Create.
 Developer  
 September 2011 - Current  
-I am currently a developer with Create. At Create I work within the development team managing the platform and building new features. I also manage the development environment and currently putting in place a CI system to help with the testing within development.
+I am currently a developer with Create. I work within the development team managing the platform and building new features. I also manage the development environment and currently putting in place a CI system to help with the testing within development.
 
 ### Zopa Ltd.
 Junior Developer  
