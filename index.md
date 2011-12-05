@@ -36,6 +36,19 @@ Butlins, Technical Stage Manager
 November 2005 - August 2008  
 Stage Support Services, Lighting Designer/Rigger
 
+## Projects
+
+### RoastHunter
+[http://roasthunter.co.uk](http://roasthunter.co.uk)
+RoastHunter is a website listing locations near you where you can find a good roast. RoastHunter is built using CodeIgniter and the Google Maps API and a sub-site using Wordpress. I am also developing an iPhone application for RoastHunter built in Titanium, and using the API framework slim to pull data from the MySQL database for the iPhone application.
+
+### Project X (Nameless)
+Project X is currently a work in progress, It will be an opensource deployment system for PHP projects. Project X connects to your Git/Subversion project and deploys to your webservers on demand. This project came about as I wanted to build something for the opensource community and grow my knowledge with PDO and development in general.
+
+### Billr
+[http://billr.co.uk](http://billr.co.uk)
+Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr allows clients to view and manage the invoices that are generated within FreeAgent, although Freeagent is still in progress, upon launch I plan on intergrating a payment portal to allow clients to pay the invoices. Billr is built using the FreeAgent API.
+
 ## Tools
 * OS X
 * Linux
