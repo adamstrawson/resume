@@ -40,7 +40,7 @@ Stage Support Services, Lighting Designer/Rigger
 
 ### RoastHunter
 [http://roasthunter.co.uk](http://roasthunter.co.uk)  
-RoastHunter is a website listing locations near you where you can find a good roast. RoastHunter is built using CodeIgniter and the Google Maps API and a sub-site using Wordpress. I am also developing an iPhone application for RoastHunter built in Titanium, and using the API framework slim to pull data from the MySQL database for the iPhone application.
+RoastHunter is a website listing locations near you where you can find a good roast. RoastHunter is built using CodeIgniter and the Google Maps API and a sub-site using Wordpress. I am also developing an iPhone application for RoastHunter built in Titanium, and using the API framework Slim [http://slimframework.com](http://slimframework.com) to pull data from the MySQL database for the iPhone application.
 
 ### Project X (Nameless)
 Project X is currently a work in progress, It will be an opensource deployment system for PHP projects. Project X connects to your Git/Subversion project and deploys to your webservers on demand. This project came about as I wanted to build something for the opensource community and grow my knowledge with PDO and development in general.
