@@ -12,23 +12,22 @@ layout: default
 
 ## Experience
 
-### Create
+### Create.
 Developer  
 September 2011 - Current  
-I am currently a junior developer with Zopa, my tasks include working with marketing to create pages based on their briefs to increase conversions, improve the users experiences 
-through the website, as well as improving the internal platforms to make our coworkers jobs easier. As well as this I also manage the blog and forum platforms
+I am currently a developer with Create. At Create I work within the development team managing the platform and building new features. I also manage the development environment and currently putting in place a CI system to help with the testing within development.
 
 ### Zopa Ltd.
 Junior Developer  
 June 2010 - September 2011  
-I am currently a junior developer with Zopa, my tasks include working with marketing to create pages based on their briefs to increase conversions, improve the users experiences 
-through the website, as well as improving the internal platforms to make our coworkers jobs easier. As well as this I also manage the blog and forum platforms
+As a junior developer at Zopa, my tasks included working with marketing to create pages based on their briefs to increase conversions, improve the users experiences 
+through the website. It was also my task to manage the blog and forum platforms.
 
 ### Grimaldi Media
 Web Developer, Branding, SEO  
 March 2009 - April 2010  
-While working with Grimaldi Media, it was my role to oversea the build of web projects, building templates from provided designs, and integrating with Content Management 
-Systems. I also managed SEO and Social Media campaigns, and also saw to clients graphics needs from branding to marketing material
+While working with Grimaldi Media, it was my role to oversea the build of web projects, building templates from supplied designs, and integrating with Content Management 
+Systems. I also saw to clients graphics needs from branding to marketing material
 
 ### Misc
 August 2008 - March 2009  
@@ -38,10 +37,10 @@ November 2005 - August 2008
 Stage Support Services, Lighting Designer/Rigger
 
 ## Tools
-* Linux
 * OS X
+* Linux
 * Amazon Web Services (EC2, S3)
-* RackSpace Cloud (Cloud Servers, Load Balancers, Cloud Files)
+* RackSpace (Cloud Servers, Load Balancers, Cloud Files)
 * Apache
 * PHP
 * MySQL
@@ -49,6 +48,8 @@ Stage Support Services, Lighting Designer/Rigger
 * HTML
 * CSS
 * RESTful webservice API's
+* Facebook API
+* Git/Subversion
 
 ## Style
 * Agile team management
