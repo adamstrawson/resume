@@ -1,0 +1,19 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, "Arial", sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+div.container {
+  margin: 20px auto;
+  text-align: justify;
+  width: 640px;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+#experience {
+  page-break-before: always;
+}
