@@ -24,10 +24,10 @@ As a developer at Zopa, my tasks included working with marketing to create pages
 through the website. It was also my task to manage the blog and forum platforms.
 
 ### Grimaldi Media
-Web Developer, Branding, SEO  
+Web Developer  
 March 2009 - April 2010  
 While working with Grimaldi Media, it was my role to oversea the build of web projects, building templates from supplied designs, and integrating with Content Management 
-Systems. I also saw to clients graphics needs from branding to marketing material
+Systems.
 
 ### Misc
 August 2008 - March 2009  
