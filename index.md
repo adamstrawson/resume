@@ -18,9 +18,9 @@ September 2011 - Current
 I am currently a developer with Create. I work within the development team managing the platform and building new features. I also manage the development environment and currently putting in place a CI system to help with the testing within development.
 
 ### Zopa Ltd.
-Junior Developer  
+Developer  
 June 2010 - September 2011  
-As a junior developer at Zopa, my tasks included working with marketing to create pages based on their briefs to increase conversions, improve the users experiences 
+As a developer at Zopa, my tasks included working with marketing to create pages based on their briefs to increase conversions, improve the users experiences 
 through the website. It was also my task to manage the blog and forum platforms.
 
 ### Grimaldi Media
