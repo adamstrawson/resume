@@ -15,7 +15,7 @@ layout: default
 ### Create.
 Developer  
 September 2011 - Current  
-I am currently a developer with Create. I work within the development team managing the platform and building new features. I also manage the development environment and currently putting in place a CI system to help with the testing within development.
+I am currently a PHP developer with Create. I work within the development team managing the platform and building new features. I also manage the development environment and currently putting in place a CI system to help with the testing within development.
 
 ### Zopa Ltd.
 Developer  
@@ -51,16 +51,14 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 
 ## Tools
 * OS X
-* Linux
+* LAMP Stack
+* Nginx
 * Amazon Web Services (EC2, S3)
 * RackSpace (Cloud Servers, Load Balancers, Cloud Files)
-* Apache
-* PHP
-* MySQL
-* Javascript (JQuery/Prototype)
+* Javascript (JQuery)
 * HTML
 * CSS
-* RESTful webservice API's
+* RESTful API's
 * Facebook API
 * Git/Subversion
 
