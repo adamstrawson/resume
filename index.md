@@ -15,18 +15,18 @@ layout: default
 ### Create.
 Developer  
 September 2011 - Current  
-I am currently a PHP developer with Create. I work within the development team managing the platform and building new features. I also manage the development environment and currently putting in place a CI system to help with the testing within development.
+I am currently a PHP developer with Create. I work within the development team managing the platform and building new features. I also manage the development environment and currently putting in place a CI system to help with the testing and automation within development.
 
 ### Zopa Ltd.
 Developer  
 June 2010 - September 2011  
-As a developer at Zopa, my tasks included working with marketing to create pages based on their briefs to increase conversions, improve the users experiences 
+As a developer at Zopa, my tasks included working with marketing to create pages based on their briefs to increase conversions, and improve the users experiences 
 through the website. It was also my task to manage the blog and forum platforms.
 
 ### Grimaldi Media
 Web Developer  
 March 2009 - April 2010  
-While working with Grimaldi Media, it was my role to oversea the build of web projects, building templates from supplied designs, and integrating with Content Management 
+While working with Grimaldi Media, it was my role to oversea the overall build of web projects, building templates from supplied designs, and integrating with Content Management 
 Systems.
 
 ### Misc
@@ -40,7 +40,7 @@ Stage Support Services, Lighting Designer/Rigger
 
 ### RoastHunter
 [http://roasthunter.co.uk](http://roasthunter.co.uk)  
-RoastHunter is a website listing locations near you where you can find a good roast. RoastHunter is built using CodeIgniter and the Google Maps API and a sub-site using Wordpress. I am also developing an iPhone application for RoastHunter built in Titanium, and using the API framework Slim [http://slimframework.com](http://slimframework.com) to pull data from the MySQL database for the iPhone application.
+RoastHunter is a website listing locations near you where you can find a good roast. RoastHunter is built using CodeIgniter, the Google Maps API and a sub-site using Wordpress. I am also developing an iPhone application for RoastHunter built in Titanium, and using the API framework Slim [http://slimframework.com](http://slimframework.com) to pull data from the MySQL database for the iPhone application.
 
 ### Project X (Nameless)
 Project X is currently a work in progress, It will be an opensource deployment system for PHP projects. Project X connects to your Git/Subversion project and deploys to your webservers on demand. This project came about as I wanted to build something for the opensource community and grow my knowledge with PDO and development in general.
@@ -53,6 +53,7 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 * OS X
 * LAMP Stack
 * Nginx
+* NodeJS
 * Amazon Web Services (EC2, S3)
 * RackSpace (Cloud Servers, Load Balancers, Cloud Files)
 * Javascript (JQuery)
@@ -66,3 +67,8 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 * Agile team management
 * Pair Programming
 * Test-focused Development
+
+## Future Goals
+* Learn Ruby as a primarly language
+* Understand data analysis, statistics, prediction and visualisation.
+* Move from being primarly a developer and into devops
