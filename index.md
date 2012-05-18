@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Adam Strawson
-### Developer, Only uses Bootstrap
+### Developer
 
 * Mobile: +44 (0)7867 977184
 * Email: adam@adamstrawson.com
