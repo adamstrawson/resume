@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Adam Strawson
-### Developer
+### DevOps
 
 * Mobile: +44 (0)7867 977184
 * Email: adam@adamstrawson.com
@@ -13,9 +13,9 @@ layout: default
 ## Experience
 
 ### Create.
-Developer  
+DevOps  
 September 2011 - Current  
-I am currently a PHP developer with Create. I work within the development team managing the platform and building new features. I also manage the development environment and currently putting in place a CI system to help with the testing and automation within development.
+I'm a PHP developer with Create. I work on the core application and the internal systems, as well as helping maintain the infrastructure.
 
 ### Zopa Ltd.
 Developer  
