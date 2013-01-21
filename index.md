@@ -20,7 +20,7 @@ I am the primary DevOps at Create. I work alongside the development team, buildi
 
 Within the DevOps role, I maintain the infrastructure for our service, prevent potential bottlenecks, and scalability plans, as well as participate with the on-call schedule.
 
-Along side the operations tasks I work with the development team improve the platform and build new features for our users.
+Along side the operations tasks I work with the development team to improve the platform and build new features for our users.
 
 ### Zopa Ltd.
 Developer  
@@ -51,7 +51,7 @@ RoastHunter is a website listing locations near you where you can find a good ro
 
 ### Billr
 *Discontinued*  
-Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr allows clients to view and manage the invoices that are generated within FreeAgent, although Freeagent is still in progress, upon launch I plan on integrating a payment portal to allow clients to pay the invoices. Billr is built using the FreeAgent API.
+Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr allows clients to view and manage the invoices that are generated within FreeAgent, and allow clients to pay the invoices. Billr is built using the FreeAgent API.
 
 ## Experience
 
