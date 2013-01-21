@@ -4,29 +4,38 @@ layout: default
 ---
 
 # Adam Strawson
-### Web Developer
+### DevOps
 
 * Mobile: +44 (0)7867 977184
 * Email: adam@adamstrawson.com
 * Url: [http://adamstrawson.com](http://adamstrawson.com)
 
+
 ## Experience
 
 ### Create.
-Developer  
+DevOps  
 September 2011 - Current  
-I am currently a PHP developer with Create. I work within the development team managing the platform and building new features. I also manage the development environment and currently putting in place a CI system to help with the testing and automation within development.
+
+I am the primary DevOps at Create. I work alongside the development team, building and managing the development tools, including Deployment Systems, and automated/manual testing environments.
+
+Within the DevOps role, I maintain the infrastructure for our service, prevent potential bottlenecks, and scalability plans, as well as participate with the on-call schedule.
+
+Along side the operations tasks I work with the development team improve the platform and build new features for our users.
 
 ### Zopa Ltd.
 Developer  
 June 2010 - September 2011  
-As a developer at Zopa, my tasks included working with marketing to create pages based on their briefs to increase conversions, and improve the users experiences 
-through the website. It was also my task to manage the blog and forum platforms.
+
+As a developer at Zopa, my tasks included working with marketing to create pages based on their briefs to increase conversions, and improve the users experiences through the website, as well as general improvements to the application.
+
+During my time at Zopa, I learnt the basics of ASP.NET MVC, Continuous Integration through TeamCity, and Windows Server and Linux environments.
 
 ### Grimaldi Media
 Web Developer  
-March 2009 - April 2010  
-While working with Grimaldi Media, it was my role to oversea the overall build of web projects, building templates from supplied designs, and integrating with Content Management 
+March 2009 - April 2010 
+
+While working with Grimaldi Media, it was my role to oversea the overall build of web projects, primarily in PHP, building templates from supplied designs, and integrating with Content Management 
 Systems.
 
 ### Misc
@@ -42,33 +51,45 @@ Stage Support Services, Lighting Designer/Rigger
 [http://roasthunter.co.uk](http://roasthunter.co.uk)  
 RoastHunter is a website listing locations near you where you can find a good roast. RoastHunter is built using CodeIgniter, the Google Maps API and a sub-site using Wordpress. I am also developing an iPhone application for RoastHunter built in Titanium, and using the API framework Slim [http://slimframework.com](http://slimframework.com) to pull data from the MySQL database for the iPhone application.
 
-### Project X (Nameless)
-Project X is currently a work in progress, It will be an opensource deployment system for PHP projects. Project X connects to your Git/Subversion project and deploys to your webservers on demand. This project came about as I wanted to build something for the opensource community and grow my knowledge with PDO and development in general.
-
 ### Billr
-[http://billr.co.uk](http://billr.co.uk)  
-Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr allows clients to view and manage the invoices that are generated within FreeAgent, although Freeagent is still in progress, upon launch I plan on intergrating a payment portal to allow clients to pay the invoices. Billr is built using the FreeAgent API.
+*Discontinued*  
+Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr allows clients to view and manage the invoices that are generated within FreeAgent, although Freeagent is still in progress, upon launch I plan on integrating a payment portal to allow clients to pay the invoices. Billr is built using the FreeAgent API.
 
-## Tools
-* OS X
-* LAMP Stack
-* Nginx
-* NodeJS
-* Amazon Web Services (EC2, S3)
-* RackSpace (Cloud Servers, Load Balancers, Cloud Files)
-* Javascript (JQuery)
+## Experience
+
+### Development
+
+* PHP
+* MySQL
+* Python (Basics, currently learning)
+* Shell Scripting (Bash)
 * HTML
 * CSS
-* RESTful API's
-* Facebook API
-* Git/Subversion
+* Javascript (jQuery)
+
+### Infrastructure
+
+* Windows Server
+* OS X Server
+* Linux
+* VMWare
+* Networking
+* Cisco Switches and Firewalls
+
+### Software / Packages
+
+* Apache
+* Nginx
+* Varnish
+* MemCache
+
+### Misc
+
+* Amazon Web Services (EC2, S3)
+* RackSpace (Cloud Servers, Load Balancers, Cloud Files (API))
+* Version Control (Git & Subversion)
 
 ## Style
 * Agile team management
 * Pair Programming
 * Test-focused Development
-
-## Future Goals
-* Learn Ruby as a primarly language
-* Understand data analysis, statistics, prediction and visualisation.
-* Move from being primarly a developer and into devops
