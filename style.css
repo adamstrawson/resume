@@ -1,5 +1,5 @@
 body {
-  	background-color: #fff;
+  	background-color: #F0F0F0;
 	font-family: "Helvetica Neue", Helvetica, "Arial", sans-serif;
   	font-size: 13px;
   	line-height: 1.5;
@@ -15,23 +15,29 @@ a:hover {
 }
 
 #container {
-	background-color: #ECECEC;
-	border-left: 8px solid #FF1168;
-  	margin: 20px auto;
-	padding: 20px;
-  	width: 640px;
+	width: 740px;
+	padding: 50px 60px 30px;
+	margin: 0 auto;
+	margin-top: -40px;
+	background: white;
+	border-radius: 3px;
+	border-color: black;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+	margin-bottom: 10px;
 }
 
-#adam_strawson, #web_developer {
+#adam_strawson, #devops {
 	margin: 0;
 }
 
 h2 {
 	border-bottom: 1px solid #8F8F8F;
 	width: 260px;
-	color: #25020F;
+	color: #FE4365;
 }
 
 h3 {
-	color: #9E1E4C;
+	margin-bottom: -10px;
+	color: #000;
+	font-weight: bold;
 }
