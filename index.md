@@ -73,6 +73,7 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 * VMWare
 * Networking
 * Cisco Switches and Firewalls
+* Datacenter 'rack and stack'
 
 ### Software / Packages
 
