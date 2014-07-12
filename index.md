@@ -79,13 +79,14 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 
 * Windows Server
 * OS X Server
-* Linux
+* Linux (Debian/Ubuntu)
 * VMWare
 * Openstack
 * Networking
 * Configuration Managment (Puppet)
 * Cisco Switches and Firewalls
 * Datacenter 'rack and stack'
+* Capactity Planning
 
 ### Software / Packages
 
@@ -94,6 +95,7 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 * Varnish
 * MemCache
 * HAProxy
+* DRBD
 
 ### Misc
 
