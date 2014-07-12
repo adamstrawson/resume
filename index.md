@@ -69,11 +69,14 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 
 * PHP
 * Node.js
+* Python (Basics)
 * MySQL & NoSQL
 * Shell Scripting (Bash)
 * HTML
 * CSS
 * Javascript
+* Capistrano
+* Vagrant
 
 ### Infrastructure
 
