@@ -12,15 +12,25 @@ layout: default
 
 ## Experience
 
+### The Student Room Group.
+Dynamic Developer  
+May 2013 - Current  
+
+I work within the production team as a full stack developer, building and improving upon existing features across The Student Room Groups three sites, as well as our internal platforms that drive critical business decisions, the development tools that the team relies on using VMware, puppet and introducing continuous integration tools.
+
+I also work alongside our infrastructure partner in Canada with making sure the hardware and services that our group sites run on are performing at their best.
+
+On top of my role I also manage the Technical Support for the company, including the daily running of the technical requirements within the office, from hardware requests to the general upkeep of the office infrastructure and networks.
+
 ### Create.
 DevOps  
-September 2011 - Current  
+September 2011 - May 2013  
 
-I am the primary DevOps at Create. I work alongside the development team, building and managing the development tools, including Deployment Systems, and automated/manual testing environments.
+I was the lead DevOps at Create. I worked alongside the development team, building and managing the development tools, including Continuous Integration systems, and automated/manual testing environments.
 
-Within the DevOps role, I maintain the infrastructure for our service, prevent potential bottlenecks, and scalability plans, as well as participate with the on-call schedule.
+Within the DevOps role, I maintained the infrastructure for our service, looking at the prevention of potential bottlenecks, working on scalability plans, maintaining the dedicated hardware in our colo data centre, and as well as participate with the on-call schedules.
 
-Along side the operations tasks I work with the development team to improve the platform and build new features for our users.
+Along side the operations tasks I worked with the development team to improve the platform and build new features for our users, written in PHP on a custom framework, and working with various APIs, most importantly Facebook's, with which the 'Facebook Shop' feature was built to allow Creates users to both display and buy products within their own business Facebook page.
 
 ### Zopa Ltd.
 Developer  
@@ -28,13 +38,13 @@ June 2010 - September 2011
 
 As a developer at Zopa, my tasks included working with marketing to create pages based on their briefs to increase conversions, and improve the users experiences through the website, as well as general improvements to the application.
 
-During my time at Zopa, I learnt the basics of ASP.NET MVC, Continuous Integration through TeamCity, and Windows Server and Linux environments.
+I picked up the basics of ASP.NET MVC, Continuous Integration through TeamCity, and Windows Server and Linux environments.
 
 ### Grimaldi Media
-Web Developer  
+Full Stack Developer  
 March 2009 - April 2010 
 
-While working with Grimaldi Media, it was my role to oversea the overall build of web projects, primarily in PHP, building templates from supplied designs, and integrating with Content Management Systems.
+During my time working with Grimaldi Media, it was my role to oversea the overall build of web projects, from backend development in PHP to frontend development with HTML, CSS and Javascript. I worked with various CMS systems such as Wordpress, Expression Engine and the Ecommerce platform Actinic.
 
 ### Misc
 August 2008 - March 2009  
@@ -58,12 +68,12 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 ### Development
 
 * PHP
-* MySQL
-* Python (Basics, currently learning)
+* Node.js
+* MySQL & NoSQL
 * Shell Scripting (Bash)
 * HTML
 * CSS
-* Javascript (jQuery)
+* Javascript
 
 ### Infrastructure
 
@@ -71,7 +81,9 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 * OS X Server
 * Linux
 * VMWare
+* Openstack
 * Networking
+* Configuration Managment (Puppet)
 * Cisco Switches and Firewalls
 * Datacenter 'rack and stack'
 
@@ -81,14 +93,10 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 * Nginx
 * Varnish
 * MemCache
+* HAProxy
 
 ### Misc
 
 * Amazon Web Services (EC2, S3)
 * RackSpace (Cloud Servers, Load Balancers, Cloud Files (API))
 * Version Control (Git & Subversion)
-
-## Style
-* Agile team management
-* Pair Programming
-* Test-focused Development
