@@ -1,4 +1,4 @@
-# Adam Strawson, Developer
+# Adam Strawson, DevOps Engineer
 
 This is my CV/Resume.
 
