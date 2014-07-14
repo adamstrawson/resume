@@ -1,10 +1,10 @@
 ---
-title: "Adam Strawson, Developer"
+title: "Adam Strawson, DevOps Engineer"
 layout: default
 ---
 
 # Adam Strawson
-### DevOps
+### DevOps Engineer
 
 * Mobile: +44 (0)7867 977184
 * Email: adam@adamstrawson.com
