@@ -1,5 +1,5 @@
 ---
-title: "Adam Strawson, Developer"
+title: "Adam Strawson, DevOps Engineer"
 layout: default
 ---
 
