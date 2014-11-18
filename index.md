@@ -3,8 +3,7 @@ title: "Adam Strawson, DevOps Engineer"
 layout: default
 ---
 
-# Adam Strawson
-
+# Adam Strawson  
 ### DevOps Engineer  
 
 * Mobile: +44 (0)7867 977184
