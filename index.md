@@ -4,6 +4,7 @@ layout: default
 ---
 
 # Adam Strawson  
+
 ### DevOps Engineer  
 
 
