@@ -63,6 +63,11 @@ RoastHunter is a website listing locations near you where you can find a good ro
 *Discontinued*  
 Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr allows clients to view and manage the invoices that are generated within FreeAgent, and allow clients to pay the invoices. Billr is built using the FreeAgent API.
 
+## Books
+
+### Continious Deployment and DevOps: A Quick Start Guide.
+As a technical reviewer for this publication, I was required to review the book for technical inacuracies and general readability to the target audience. *Due to be publised late November 2014*
+
 ## Experience
 
 ### Development
