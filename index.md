@@ -4,7 +4,9 @@ layout: default
 ---
 
 # Adam Strawson
+
 ### DevOps Engineer
+
 
 * Mobile: +44 (0)7867 977184
 * Email: adam@adamstrawson.com
