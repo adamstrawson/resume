@@ -100,9 +100,11 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 * MemCache
 * HAProxy
 * DRBD
+* BIND
 
 ### Misc
 
 * Amazon Web Services (EC2, S3)
 * RackSpace (Cloud Servers, Load Balancers, Cloud Files (API))
 * Version Control (Git & Subversion)
+* CI tools such as Atlassian Bamboo, Jenkins, Travis CI 
