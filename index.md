@@ -3,8 +3,10 @@ title: "Adam Strawson, DevOps Engineer"
 layout: default
 ---
 
-# Adam Strawson
-### DevOps Engineer
+# Adam Strawson  
+
+### Site Reliability Engineer  
+
 
 * Mobile: +44 (0)7867 977184
 * Email: adam@adamstrawson.com
@@ -13,8 +15,27 @@ layout: default
 ## Experience
 
 ### The Student Room Group.
+Site Reliability Engineer  
+June 2015 - Current
+
+* Manage, maintain and provide training and support for development tools and systems.
+* Take responsibility for the reliability, efficiency and performance of the services
+* Review and influence architecture, standards, and methods for operating services and systems
+* Participate in platform performance analysis, software optimisation and tuning, service capacity planning and demand forecasting.
+* Develop effective relationships and work alongside our partners to ensure a high level of service is maintained.
+* Participate in out-of-hours support alongside our hosting partner.
+
+As an addition;
+
+* Provide technical support for the internal IT Infrastructure.
+* Ensure the internal network, telephony, desktop and servers are running efficiently at all times.
+* Work with suppliers, vendors and the IT manager/COO on IT purchasing and project planning for all IT related support systems.
+* To work closely with the IT manager and Finance department to monitor spend on internal IT services and ensure that the most cost effective and quality IT assets and services are sourced.
+* Work with other technical support staff to maintain excellent levels of customer service for all  company employees and customers.
+
+### The Student Room Group.
 Dynamic Developer  
-May 2013 - Current  
+May 2013 - June 2015  
 
 I work within the production team as a full stack developer, building and improving upon existing features across The Student Room Groups three sites, as well as our internal platforms that drive critical business decisions, the development tools that the team relies on using VMware, puppet and introducing continuous integration tools.
 
@@ -63,30 +84,39 @@ RoastHunter is a website listing locations near you where you can find a good ro
 *Discontinued*  
 Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr allows clients to view and manage the invoices that are generated within FreeAgent, and allow clients to pay the invoices. Billr is built using the FreeAgent API.
 
+## Books
+
+### Continious Deployment and DevOps: A Quick Start Guide.
+As a technical reviewer for this publication, I was required to review the book for technical inacuracies and general readability to the target audience. *Due to be publised late November 2014*
+
 ## Experience
 
 ### Development
 
 * PHP
 * Node.js
+* Python (Basics)
 * MySQL & NoSQL
 * Shell Scripting (Bash)
 * HTML
 * CSS
 * Javascript
 * Cucumber
+* Capistrano
+* Vagrant
 
 ### Infrastructure
 
 * Windows Server
 * OS X Server
-* Linux
+* Linux (Debian/Ubuntu)
 * VMWare
 * Openstack
 * Networking
 * Configuration Managment (Puppet)
 * Cisco Switches and Firewalls
 * Datacenter 'rack and stack'
+* Capactity Planning
 
 ### Software / Packages
 
@@ -95,9 +125,12 @@ Billr is an interface add-on to [http://freeagentcentral.com](FreeAgent). Billr 
 * Varnish
 * MemCache
 * HAProxy
+* DRBD
+* BIND
 
 ### Misc
 
 * Amazon Web Services (EC2, S3)
 * RackSpace (Cloud Servers, Load Balancers, Cloud Files (API))
 * Version Control (Git & Subversion)
+* CI tools such as Atlassian Bamboo, Jenkins, Travis CI 
